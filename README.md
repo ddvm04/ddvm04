@@ -9,8 +9,7 @@ I think my knowledge about education and classroom practice can be useful when d
 I have always been very interested in techology and decided it was time to study on my own. <br>
 I have this big big dream of becoming a game developer - I always dreamed about a job like this, but only figured out it is real and possible about a couple years ago. <br>
 I’m currently learning Python. <br>
-You can reach me on my ddvm04@gmail.com
-</p>
+You can reach me on my ddvm04@gmail.com 
 </body>
 </html>
 <!---
